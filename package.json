@@ -3,7 +3,7 @@
   "private": true,
   "description": "Pauperial - Service for make short links!",
   "engines": {
-    "node": ">= 16"
+    "node": ">= 14"
   },
   "workspaces": {
     "packages": [
